@@ -19,7 +19,7 @@ If they are not yet installed, you can use pip to install
 
 ## Data
 
-These bottleneck feature files may be needed
+These bottleneck feature files have to be downloaded to the directory *bottleneck_features**
 
 - [VGG-19 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz)
 - [Inception bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogInceptionV3Data.npz)

@@ -26,7 +26,7 @@ These bottleneck feature files have to be downloaded to the directory **bottlene
 
 ## Running the app
 
-Put the images in the directory **my_test_images** and pass the path to the function *my_predictor*. The prediction will then be returned. If the source image does not resember a human face or a dog, the message *"Error. Not a face or a dog detected in the image"* will be returned.
+Put the test image in the directory **my_test_images** and pass the path to the function *my_predictor*. The prediction will then be returned. If the source image does not resember a human face or a dog, the message *"Error. Not a face or a dog detected in the image"* will be returned.
 
 ```python
 res = my_predictor('my_test_images/dog_test1.jpg')

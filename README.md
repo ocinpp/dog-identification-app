@@ -1,6 +1,6 @@
 # Dog Identification App
 
-Using CNN and transfer learning to build a dog classification app as a project for Udacity
+Using CNN and transfer learning to build a dog classification app as a project for the Udacity course
 
 ## Libraries
 
